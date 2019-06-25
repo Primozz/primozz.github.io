@@ -4,11 +4,13 @@ body {
 abbr[title] {
   text-decoration: none; }
   
-#contents li {
-  margin-bottom: 0; }
-
+#contents li,
+.education li,
 .jobtitle {
   margin-bottom: 0; }
+
+.small-bottom-margin {
+    margin-bottom: 0.5rem;}
 
 .section-border {
   border-top: 4px double #ccc;
