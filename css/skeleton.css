@@ -147,8 +147,8 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; margin-bottom: 1re
   h1 { font-size: 5.0rem; }
   h2 { font-size: 4.2rem; }
   h3 { font-size: 3.6rem; }
-  h4 { font-size: 3.0rem; }
-  h5 { font-size: 2.4rem; }
+  h4 { font-size: 2.2rem; margin-bottom: 1rem; }
+  h5 { font-size: 2.0rem; }
   h6 { font-size: 1.5rem; margin-bottom: 1rem; }
 }
 
@@ -163,7 +163,7 @@ p {
 a {
   color: #000000;
   text-decoration: none;
-  border-bottom: 1px solid #cc9900; }
+  border-bottom: 1px dotted #cc9900; }
 a:hover {
   color: #0FA0CE; }
 
